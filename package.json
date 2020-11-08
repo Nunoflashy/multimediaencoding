@@ -1,0 +1,23 @@
+{
+  "name": "multimediaencoding",
+  "version": "1.0.0",
+  "description": "Thank you for using our template!",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nunoflashy/multimediaencoding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/Nunoflashy/multimediaencoding#readme",
+  "bugs": {
+    "url": "https://github.com/Nunoflashy/multimediaencoding/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
